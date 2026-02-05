@@ -1,77 +1,104 @@
-# 📊 STAT 448: Advanced Data Analysis (SAS)
+# 📚 UIUC Statistics Coursework
 
-**Course:** STAT 448 – Advanced Data Analysis  
-**University:** University of Illinois Urbana-Champaign   
+**Student:** Ishita Singh  
+**Institution:** University of Illinois Urbana-Champaign  
+**Program:** MS Statistics  
 
 ---
 
 ## 📌 Repository Overview
 
-This repository contains coursework and the final project for **STAT 448: Advanced Data Analysis**, a course focused on applying statistical modeling and data analysis techniques using **SAS**.
+This repository serves as a centralized collection of my graduate-level coursework at UIUC.  
+It includes assignments, projects, and reports from advanced statistics and data analysis courses, with an emphasis on **applied modeling, statistical inference, and real-world data analysis**.
 
-The course emphasizes:
-- Practical data analysis workflows
-- Regression and ANOVA modeling
-- Model diagnostics and interpretation
-- Clear statistical communication using real-world datasets
-
-All assignments and the final project were implemented primarily in **SAS**.
+The repository is organized **by course**, and each course folder contains homework assignments and project materials completed during the semester.
 
 ---
 
+## 📂 Course Structure
 
-### Folder Details
-
-- **HW1 – HW6/**  
-  Each folder contains:
-  - SAS programs (`.sas`)
-  - Output files (tables, diagnostics, summaries)
-  - Assignment-specific analyses
-
-- **Final Project_Ishita Singh.pdf**  
-  A comprehensive final project report that includes:
-  - Problem formulation
-  - Data preprocessing
-  - Model selection and diagnostics
-  - Interpretation of results
-  - Final conclusions and recommendations
 
 ---
 
-## 🧠 Topics Covered
+## 📊 Courses Included
 
-Across homework assignments and the final project, this repository covers:
+### 📈 STAT 429: Time Series Analysis
+Focuses on modeling and forecasting temporal data using classical and modern time-series methods.
 
+**Topics include:**
+- Time series decomposition  
+- Stationarity and differencing  
+- ARMA / ARIMA / SARIMA models  
+- Forecasting and model evaluation  
+- Volatility modeling (e.g., GARCH)
+
+**Tools:** R
+
+---
+
+### 📉 STAT 448: Advanced Data Analysis Using SAS
+Emphasizes applied statistical modeling using SAS with real-world datasets.
+
+**Topics include:**
 - Simple and multiple linear regression  
-- Categorical predictors and interaction terms  
-- Model diagnostics and validation  
-- Analysis of variance (ANOVA)  
-- Model comparison and interpretation  
-- Applied statistical reasoning using SAS outputs  
+- Categorical predictors and interactions  
+- ANOVA and model comparison  
+- Diagnostics and residual analysis  
+- Interpretation of SAS output
+
+**Tools:** SAS
+
+---
+
+### 🤖 STAT 432: Basics of Statistical Learning
+Introduces core ideas in statistical learning and predictive modeling.
+
+**Topics include:**
+- Linear and logistic regression  
+- Classification methods  
+- Model assessment and validation  
+- Bias–variance tradeoff  
+- Introduction to machine learning concepts
+
+**Tools:** R / Python (course-dependent)
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- **Primary Language:** SAS  
-- **Statistical Techniques:**  
-  - Linear Regression  
-  - ANOVA  
-  - Model Diagnostics  
-  - Hypothesis Testing  
-- **Reporting:** PDF-based statistical reports  
+- **Languages:** R, SAS  
+- **Statistical Methods:**  
+  - Regression & ANOVA  
+  - Time Series Analysis  
+  - Statistical Learning  
+  - Forecasting & Model Diagnostics  
+- **Reporting:** PDF reports, R Markdown
 
 ---
 
-## 📈 Learning Outcomes
+## 🎯 Learning Outcomes
 
-Through this course, I developed the ability to:
-- Translate real-world problems into statistical models
-- Implement end-to-end analyses in SAS
-- Interpret model outputs and diagnostics
-- Communicate statistical findings clearly and effectively
+Through this coursework, I developed the ability to:
+- Apply statistical theory to real datasets  
+- Build, evaluate, and interpret models  
+- Communicate results clearly and rigorously  
+- Use industry-standard statistical tools effectively  
 
 ---
+
+## ⚠️ Academic Integrity Notice
+
+This repository is intended for **reference and portfolio demonstration only**.  
+Please do not copy or submit this work as your own in any academic setting.
+
+---
+
+## 📬 Contact
+
+**Ishita Singh**  
+📧 is26@illinois.edu  
+🎓 MS Statistics, University of Illinois Urbana-Champaign  
+
 
 
 
